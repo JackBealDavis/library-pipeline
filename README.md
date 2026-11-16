@@ -24,7 +24,8 @@ See [docs/architecture/](docs/architecture/) for details.
 
 At a prompt copy and paste the following 2 lines:
 
-CHANGE IN VISUAL STUDIO CODE
+CHANGE IN VISUAL STUDIO
+
 
 ```sh
 git config --global user.email "you@example.com"
